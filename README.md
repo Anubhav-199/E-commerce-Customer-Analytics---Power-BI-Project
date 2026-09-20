@@ -78,16 +78,11 @@ MIT — feel free to fork, star, or reference for your own learning.
 
 ## About Me
 
-I'm Vivek Kumar, currently pursuing an MCA in AI and Data Science. This is part of my personal
+I'm Anubahav Kumar Tiwary, currently pursuing an MCA in AI and Data Science. This is part of my personal
 portfolio as I work toward a Data Analyst role — I'm hands-on with SQL, Python, Power BI, MySQL,
 and Advanced Excel.
-
-- LinkedIn: [Vivek Kumar](https://www.linkedin.com/in/vivek-kumar-263636235/)
-- GitHub: [Vivek-kumar-027](https://github.com/Vivek-kumar-027)
 
 ## Thanks for checking out the project!
 
 If you're going through something similar or spot something I could improve, feel free to open
 an issue or reach out — always looking to learn from feedback.
-
-Connect with me on LinkedIn: [https://www.linkedin.com/in/vivek-kumar-263636235/](https://www.linkedin.com/in/vivek-kumar-263636235/)
