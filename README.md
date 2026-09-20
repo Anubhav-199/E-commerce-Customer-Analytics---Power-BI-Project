@@ -76,11 +76,6 @@ specific numbers from the analysis, along with limitations and what I'd improve 
 
 MIT — feel free to fork, star, or reference for your own learning.
 
-## About Me
-
-I'm Anubahav Kumar Tiwary, currently pursuing an MCA in AI and Data Science. This is part of my personal
-portfolio as I work toward a Data Analyst role — I'm hands-on with SQL, Python, Power BI, MySQL,
-and Advanced Excel.
 
 ## Thanks for checking out the project!
 
